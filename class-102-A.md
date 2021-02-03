@@ -13,7 +13,7 @@ You can use Markdown most places around GitHub:
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
 # Example
-1. # Headers
+1. # Headers 
 
 * # Headers
 * ## Headers

@@ -54,7 +54,7 @@ VS Code has :
 * extensions and code completion.
 ![Visual Studio Code](https://code.visualstudio.com/assets/updates/1_9/search-result-nav.gif)
 
-# 4. Atom
+# 4. Atom 
 1. Atom is a free text editor.
 2. available for download for Windows computers, Mac computers and Linux computers.
 you can host and review code, or you can post and get help with the development of your own projects. Atom also ticks all the right boxes. It has syntax highlighting, themes, extensions, the works! Atom is
