@@ -86,4 +86,3 @@ wrangles your text together into something meaningful.
  is really a suite of different software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package.
 
-
