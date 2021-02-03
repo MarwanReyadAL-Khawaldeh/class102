@@ -1,9 +1,11 @@
 # class102
+
 | name | link |	
 | :---:| :---:|	
 | Read-01    | [link](class-102-B.md)|	
 |Read-02-A&B | [link](class-102-A.md)|
 |Read-03     |[link](class-102-03.md)|
+
 
 Why? The aptly named growth mindset helps us grow in whatever we pursue – especially in our work. When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.	
 
