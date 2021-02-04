@@ -4,7 +4,7 @@
 <br>
 
 # Marwan Reyad AL-Khawaldeh
-### Sofware Engineer
+### Software Engineer
 
 ## About me
 
