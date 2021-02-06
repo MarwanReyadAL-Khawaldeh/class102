@@ -8,7 +8,7 @@
 
 ## About me
 
-25 years old I carries degree in Software Engineering,from Hashemite University (HU) I did not have any experience work ,now I am in scholarship at LTUC.
+25 years old I carries degree in Software Engineering,from Hashemite University (HU) I did not have any experience work ,now I am in scholarship in LTUC.
 <br>
 <br>
 
@@ -32,7 +32,7 @@ So what is a fixed mentality?
  How do I remind myself of how to maintain a growth mindset?	
 1. I remind myself that there are 16 hours a day, how can this time be used?	
 2. I tell myself what weaknesses I have and how can I address them	
-3. Always put my dream between my eyes so that I stay excited to reach it.	
+3. Always put my dream between my eyes so that I stay excited to reach it.	 
 
 
 
