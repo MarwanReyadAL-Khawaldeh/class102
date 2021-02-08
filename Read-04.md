@@ -210,3 +210,14 @@ When you finished from writing the statement of the function you can run with ju
 There are functions in order to work the task that build for it they need some information.
 
 ![fun](img/fun.PNG)
+
+
+
+
+
+
+
+
+
+
+
