@@ -30,6 +30,7 @@ There are scenarios, however, in which we must assert whether multiple values or
 * && (and) — This operator will be truthy (act like true) if and only if the expressions on both sides of it are true.
 
 * || (or) — This operator will be truthy if the expression on either side of it is true. Otherwise, it will be falsy (act like false).
+
 ```<script>```
 
 ```var color ="red";```
