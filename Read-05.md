@@ -27,9 +27,12 @@ You may be familiar with comparison operators from math class. Let’s make sure
 Comparison operators allow us to assert the equality of a statement with JavaScript.
 
 There are scenarios, however, in which we must assert whether multiple values or expressions are true. In JavaScript, we can use logical operators to make these assertions.
-* && (and) — This operator will be truthy (act like true) if and only if the expressions on both sides of it are true.
 
-* || (or) — This operator will be truthy if the expression on either side of it is true. Otherwise, it will be falsy (act like false).
+* AND (&&) 
+ This operator will be truthy (act like true) if and only if the expressions on both sides of it are true.
+
+* OR(||) 
+ This operator will be truthy if the expression on either side of it is true. Otherwise, it will be falsy (act like false).
 
 ```<script>```
 
