@@ -1,8 +1,11 @@
 ## Comparison and Logical Operators
 
- * **Comparison operators** — operators that compare values and return true or false. The operators include:( >, <, >=, <=, ===, and !==).
+ * **Comparison operators** 
+ operators that compare values and return true or false. The operators include:
+ ( >, <, >=, <=, ===, and !==).
 
-* **Logical operators** — operators that combine multiple boolean expressions or values and provide a single boolean output. The operators include: (&&, ||, and !).
+* **Logical operators** 
+ operators that combine multiple boolean expressions or values and provide a single boolean output. The operators include: (&&, ||, and !).
 
 ## Comparison Operators
 
