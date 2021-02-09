@@ -1,0 +1,159 @@
+## WHAT IS A FUNCTION?
+
+Functions are one of the fundamental building blocks in JavaScript. A function is a reusable set of statements to perform a task or calculate a value. Functions can be passed one or more values and can return a value at the end of their execution. In order to use a function, you must define it somewhere in the scope where you wish to call it.
+
+## A BASIC FUNCTION
+
+![jsFunction](img/jsFunction.PNG)
+![ff](img/ff.PNG)
+
+# Declaring A Function
+To create a function you need to give it a name then write the statement that achieve the task you want to make it
+
+![func](img/func.PNG)
+
+# Calling A Function
+When you finished from writing the statement of the function you can run with just one line of the code.
+
+![call](img/call.PNG)
+
+# Declaring Function that need information
+There are functions in order to work the task that build for it they need some information.
+
+![fun](img/fun.PNG)
+
+# Color
+
+## Introduction to Color
+CSS supports a wide variety of colors. These include named colors, like blue, black, and LimeGreen, along with colors described by a numeric value. Using a numeric system allows us to take advantage of the whole spectrum of colors that browsers support.
+
+
+
+## Foreground Color color
+The color property allows you
+to specify the color of text inside
+an element.
+
+**Colors in CSS can be described in three different ways:**
+
+* Named colors : English words that describe colors, also called keyword colors.
+
+* RGB : numeric values that describe a mix of red, green, and blue.
+
+* HSL : numeric values that describe a mix of hue, saturation, and lightness.
+
+![css](img/css.PNG)
+
+## Understanding Color
+Every color on a computer screen is created by mixing amounts of red,
+green, and blue. To find the color you want, you can use a color picker.
+
+* **RGB Values**
+Values for red, green, and blue
+are expressed as numbers
+between 0 and 255.
+
+* **Hex Codes**
+Hex values represent values
+for red, green, and blue in
+hexadecimal code.
+
+* **Color Names**
+Colors are represented by
+predefined names. However,
+they are very limited in number.
+
+* **Hue**
+Hue is near to the colloquial idea
+of color. Technically speaking
+however, a color can also have
+saturation and brightness as
+well as hue.
+
+* **Saturation**
+Saturation refers to the amount
+of gray in a color. At maximum
+saturation, there would be no
+gray in the color. At minimum
+saturation, the color would be
+mostly gray.
+
+* **Brightness**
+Brightness (or "value") refers
+to how much black is in a color.
+At maximum brightness, there
+would be no black in the color.
+At minimum brightness, the
+color would be very dark.
+
+# Contrast
+When picking foreground and background
+colors, it is important to ensure that there is
+enough contrast for the text to be legible.
+
+* **Low Contrast**
+1. Text is harder to read when
+there is low contrast between
+background and foreground
+colors.
+
+2. A lack of contrast is particularly
+a problem for those with
+visual impairments and color
+blindness.
+
+3. It also affects those with poor
+monitors and sunlight on their
+screens 
+
+* **High Contrast**
+Text is easier to read when
+there is higher contrast between
+background and foreground
+colors.
+
+* **Medium Contrast**
+For long spans of text, reducing the contrast a little bit improves readability.
+
+## Opacity and Alpha
+
+To use opacity in the HSL color scheme, use hsla instead of hsl, and four values instead of three. For example:
+
+```color: hsla(34, 100%, 50%, 0.1);```
+
+The first three values work the same as hsl. The fourth value (which we have not seen before) is the alpha. This last value is sometimes called the opacity.
+
+Alpha is a decimal number from zero to one. If alpha is zero, the color will be completely transparent. If alpha is one, the color will be opaque. The value for half transparent would be 0.5.
+
+
+
+The RGB color scheme has a similar syntax for opacity, rgba. Again, the first three values work the same as rgb and the last value is the alpha. Here’s an example:
+
+```color: rgba(234, 45, 98, 0.33);```
+
+Alpha can only be used with HSL and RGB colors; we cannot add the alpha value to color: green color: #FFFFF.
+
+There is, however, a named color keyword for zero opacity, transparent. It’s equivalent to rgba(0, 0, 0, 0). It’s used like any other color keyword:
+
+```color: transparent;```
+
+# HSL
+One syntax that we can use to specify colors is called hexadecimal. Colors specified using this system are called hex colors. A hex color begins with a hash character (#) which is followed by three or six characters. The characters represent values for red, blue and green.
+
+```DarkSeaGreen: #8FBC8F```
+
+```Sienna:       #A0522D```
+
+```SaddleBrown:  #8B4513```
+
+```Brown:        #A52A2A```
+
+```Black:        #000000 or #000```
+
+```White:        #FFFFFF or #FFF```
+
+```Aqua:         #00FFFF or #0FF```
+
+You can include hex colors just as you would include named colors: 
+```background-color: #9932cc;.```.
+
