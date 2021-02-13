@@ -7,9 +7,3 @@
 * HTML consists of a series of elements.
 * HTML elements tell the browser how to display the content.
 * HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link".
-
-
-
-
-
-
