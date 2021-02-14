@@ -509,7 +509,8 @@ Example of the string operators :
 
 
 
- # Comparison operators
+
+# Comparison operators
  operators that compare values and return true or false. The operators include:
  ( >, <, >=, <=, ===, and !==).
 
