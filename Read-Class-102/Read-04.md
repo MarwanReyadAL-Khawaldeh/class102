@@ -30,7 +30,7 @@ the browser is very powerful. The examples below rely on the ability to:
 * **Program** rules or instructions the browser can follow.
 * **React** to events triggered by the user or browser.
 
-![jj](img/L.PNG)
+![jj](/img/L.PNG)
 
 ## SLIDESHOWS
  They allow more content to be displayed
@@ -103,8 +103,8 @@ Along with learning the language itself.
 
 Often scripts will need to perform different tasks in different situations.You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
 
-![flow](img/flow.PNG)
-![flow2](img/flow2.PNG)
+![flow](/img/flow.PNG)
+![flow2](/img/flow2.PNG)
 
 
 # EXPRESSIONS
@@ -165,11 +165,11 @@ JavaScript contains the following mathematical
 operators, which you can use with numbers.
 You may remember some from math class.
 
-![js](img/js.PNG)
+![js](/img/js.PNG)
 
  **Example USING ARITHMETIC OPERATORS**
 
-![jsATH](img/jsATH.PNG)
+![jsATH](/img/jsATH.PNG)
 
 # STRING OPERATOR
 There is just one string operator: the+ symbol.
@@ -177,7 +177,7 @@ It is used to join the strings on either side of it.
 
 **Example USING STRING OPERATORS**
 
-![jsSring](img/jsString.PNG)
+![jsSring](/img/jsString.PNG)
 <br>
 <br>
 
@@ -193,23 +193,23 @@ answer a question or perform a perform its task are packaged file. It is called 
 
 ## A BASIC FUNCTION
 
-![jsFunction](img/jsFunction.PNG)
-![ff](img/ff.PNG)
+![jsFunction](/img/jsFunction.PNG)
+![ff](/img/ff.PNG)
 
 # Declaring A Function
 To create a function you need to give it a name then write the statement that achieve the task you want to make it
 
-![func](img/func.PNG)
+![func](/img/func.PNG)
 
 # Calling A Function
 When you finished from writing the statement of the function you can run with just one line of the code.
 
-![call](img/call.PNG)
+![call](/img/call.PNG)
 
 # Declaring Function that need information
 There are functions in order to work the task that build for it they need some information.
 
-![fun](img/fun.PNG)
+![fun](/img/fun.PNG)
 
 
 

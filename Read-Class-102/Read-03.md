@@ -25,7 +25,7 @@ when a news story is viewed
 online (although it may also
 feature audio or video).
 
-![h](img/h.PNG)
+![h](/img/h.PNG)
 
 <br>
 <br>
@@ -39,7 +39,7 @@ often reflects a hierarchy of information.
 processor to create a document, we separate out the text to give it structure. Each topic might
 have a new paragraph, and each section can have a heading to describe what it covers.
 
-![hh](img/hh.PNG)
+![hh](/img/hh.PNG)
 
 <br>
 <br>
@@ -50,7 +50,7 @@ The HTML code (in blue) is made up of characters that live inside angled bracket
 closing tags.
 
 
-![html](img/html.PNG)
+![html](/img/html.PNG)
 <br>
 <br>
 
@@ -58,13 +58,13 @@ closing tags.
 
 Let's look closer at the code.There are several different elements. Each element has an opening tag and a closing tag.
 
-![ht](img/ht.PNG)
+![ht](/img/ht.PNG)
 
 Tags act like containers. They tell you
 something about the information that lies
 between their opening and closing tags.
 
-![ha](img/ha.PNG)
+![ha](/img/ha.PNG)
 
 <br>
 <br>
@@ -77,7 +77,7 @@ on the opening tag of the element and are
 made up of two parts: a name and a value,
 separated by an equals sign.
 
-![at](img/at.PNG)
+![at](/img/at.PNG)
 
 The majority of attributes can only be used on certain elements, although a few attributes (such as lang) can appear on any element.Most attribute values are either pre-deﬁned or follow a
 stipulated format. We will look at the permitted values as we introduce each new attribute.
@@ -119,7 +119,7 @@ browser uses tabs to allow you
 to view multiple pages at the
 same time).
 
-![body](img/body.PNG)
+![body](/img/body.PNG)
 
 <br>
 <br>
@@ -213,7 +213,7 @@ the first thing in a document.
 There must be nothing before it,
 not even a space. 
 
-![doctype](img/doctype.PNG)
+![doctype](/img/doctype.PNG)
 
 <br>
 <br>
@@ -268,7 +268,7 @@ belongs to.
 element can share the same
 value.
 
-![att](img/att.PNG)
+![att](/img/att.PNG)
 <br>
 <br>
 
@@ -299,7 +299,7 @@ The ```<div>``` element allows you to
 group a set of elements together
 in one block-level box.
 
-![div](img/div.PNG)
+![div](/img/div.PNG)
 
 <br>
 <br>
@@ -331,7 +331,7 @@ applied to elements that
 have specific values for these
 attributes.
 
-![span](img/span.PNG)
+![span](/img/span.PNG)
 <br>
 <br>
 
@@ -361,7 +361,7 @@ the height of the iframe in pixels.
 The width attribute specifies
 the width of the iframe in pixels.
 
-![frame](img/frame.PNG)
+![frame](/img/frame.PNG)
 <br>
 <br>
 
@@ -440,7 +440,7 @@ together related elements on the page (such as the elements that form a
 header, an article, footer or sidebar). Authors used class or id attributes
 to indicate the role of the ```<div>``` element in the structure of the page.
 
-![layout](img/layout.PNG)
+![layout](/img/layout.PNG)
 
 When coding a site like this,
 developers would usually put
@@ -458,7 +458,7 @@ parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not
 stopped many web page authors using them already.
 
-![layout-html5](img/layout-html5.PNG)
+![layout-html5](/img/layout-html5.PNG)
 
 The point of creating these
 new elements is so that web
@@ -481,7 +481,7 @@ site.
 individual ```<article>``` or
 ```<section>``` within the page.
 
-![he](img/he.PNG)
+![he](/img/he.PNG)
 
 <br>
 <br>
@@ -492,7 +492,7 @@ contain the major navigational
 blocks on the site such as the
 primary site navigation.
 
-![nav](img/nav.PNG)
+![nav](/img/nav.PNG)
 
 ## Articles ```<article>```
 The ```<article>``` element acts as

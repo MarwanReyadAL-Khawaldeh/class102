@@ -4,21 +4,21 @@ Functions are one of the fundamental building blocks in JavaScript. A function i
 
 ## A BASIC FUNCTION
 
-![jsFunction](img/jsFunction.PNG)
-![ff](img/ff.PNG)
+![jsFunction](/img/jsFunction.PNG)
+![ff](/img/ff.PNG)
 
 # Declaring A Function
 To create a function you need to give it a name then write the statement that achieve the task you want to make it
 
-![func](img/func.PNG)
+![func](/img/func.PNG)
 
 # Calling A Function
 When you finished from writing the statement of the function you can run with just one line of the code.
 
-![call](img/call.PNG)
+![call](/img/call.PNG)
 
 # Declaring Function that need information
 There are functions in order to work the task that build for it they need some information.
 
-![fun](img/fun.PNG)
+![fun](/img/fun.PNG)
 

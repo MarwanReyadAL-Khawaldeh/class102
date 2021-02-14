@@ -18,7 +18,7 @@ an element.
 
 * HSL : numeric values that describe a mix of hue, saturation, and lightness.
 
-![css](img/css.PNG)
+![css](/img/css.PNG)
 
 ## Understanding Color
 Every color on a computer screen is created by mixing amounts of red,
