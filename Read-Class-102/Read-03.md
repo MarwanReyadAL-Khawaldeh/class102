@@ -25,7 +25,7 @@ when a news story is viewed
 online (although it may also
 feature audio or video).
 
-![h](/img/h.PNG)
+![h](../img/h.PNG)
 
 
 <br>
