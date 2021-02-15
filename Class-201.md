@@ -7,6 +7,8 @@
 | :---:| :---:|	
 |Read-01|[link](Read-Class-201/Read-01.md)|
 |Read-02|[link](Read-Class-201/Read-02.md)|
+|Read-03|[link](Read-Class-201/Read-03.md)|
+
 
 
 
