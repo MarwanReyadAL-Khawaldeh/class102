@@ -624,7 +624,8 @@ the browser is very powerful. The examples below rely on the ability to:
 * **Program** rules or instructions the browser can follow.
 * **React** to events triggered by the user or browser.
 
-![jj](/img/L.PNG)
+![L](/img/L.PNG)
+
 
 ## SLIDESHOWS
  They allow more content to be displayed
