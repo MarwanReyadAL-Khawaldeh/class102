@@ -318,4 +318,101 @@ value will make it contract.
 
 ![shadow](../img/shadow.PNG)
 
+<br>
+
+# SWITCH STATEMENTS
+The switch statement is used to perform different actions based on different conditions.
+The JavaScript Switch Statement
+Use the switch statement to select one of many code blocks to be executed.
+
+* The switch expression is evaluated once.
+* The value of the expression is compared with the values of each case.
+* If there is a match, the associated block of code is executed.
+* If there is no match, the default code block is executed.
+
+**The break Keyword**
+When JavaScript reaches a break keyword, it breaks out of the switch block.This will stop the execution inside the switch block .It is not necessary to break the last case in a switch block.The block breaks (ends) there anyway.
+
+
+**The default Keyword**
+The default keyword specifies the code to run if there is no case match.
+
+If multiple cases matches a case value, the first case is selected.If no matching cases are found, the program continues to the default label.
+If no default label is found, the program continues to the statement(s) after the switch.
+
+**Strict Comparison**
+Switch cases use strict comparison (===).
+The values must be of the same type to match.
+A strict comparison can only be true if the operands are of the same type.
+
+![switch](../img/switch.PNG)
+
+# TYPE COERCION & WEAK TYPING
+JavaScript can convert data
+types behind the scenes to
+complete an operation. This is
+known as type coercion.
+
+JavaScript is said to use weak typing because the data type for a value can change. Some other languages require that you specify what data type each variable will be. They are said to use strong typing.
+
+![data](../img/data.PNG)
+
+# TRUTHY & FALSY VALUES
+
+Due to type coercion, every value in JavaScript
+can be treated as if it were true or false.
+
+* Falsy Value-Falsy values are treated as if they are false.Falsy values can also be treated as the number 0 .
+
+* Truthy Value-Truthy values are treated as if they are true. Truthy values can also be treated as the number 1.
+
+![FT](../img/FT.PNG)
+
+<br>
+
+
+# Loops
+
+## For Loop
+A **for** loop declares looping instructions, with three important pieces of information separated by semicolons ```;```:
+
+* The initialization defines where to begin the loop by declaring (or referencing) the iterator variable.
+
+* The stopping condition determines when to stop looping (when the expression evaluates to false).
+
+* The iteration statement updates the iterator each time the loop is completed.
+
+```<script>```
+
+```for(var i=0;i< 20 ;i++){```
+
+ ```consol.log(i);```
+
+```}```
+
+## While Loop
+
+The **while** loop creates a loop that is executed as long as a specified condition evaluates to **true**. The loop will continue to run until the condition evaluates to **false**. The condition is specified before the loop, and usually, some variable is incremented or altered in the **while** loop body to determine when the loop should stop.
+
+```<script>```
+
+```var sum=0;```
+
+```var i=0;```
+
+```while(i>20){```
+
+```sum+=i;```
+
+```}```
+
+```</script>```
+
+## DO WHILE LOOPS
+The do/while statement creates a loop that executes a block of code once, before checking if the condition is **true**, then it will **repeat the loop as long as the condition is true**.
+The do/while statement is used when you want to run a loop at least one time, no matter what.
+
+![do](../img/do.PNG)
+
+
 
