@@ -1,7 +1,14 @@
 
-#  Basics of HTML, CSS & JS
+#  HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-## When creating a web page, you add tags (known as markup) to the contents of the page. These tags provide extra meaning and allow browsers to show users the appropriate structure for the page.
+
+
+
+
+
+
+
+### When creating a web page, you add tags (known as markup) to the contents of the page. These tags provide extra meaning and allow browsers to show users the appropriate structure for the page.
 
 <br>
 <br>

@@ -1,6 +1,10 @@
 # Introductory HTML and JavaScript.
 
-# We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on.
+
+
+<br>
+
+### We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on.
 
 <br>
 Many web pages act like electronic versions of these
