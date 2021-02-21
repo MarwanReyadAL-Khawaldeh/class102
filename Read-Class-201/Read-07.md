@@ -26,7 +26,7 @@ represented using a ```<td>```
 element. At the end of each cell you use a
 closing ```</td>``` tag.
 
-![tabel](./img/tabel.PNG) 
+![tabel](../img/tabel.PNG) 
 
 # Table Headings
 
@@ -52,7 +52,7 @@ enables you to control the
 appearance of tables better
 when you start to use CSS.
 
-![th](./img/th.PNG)
+![th](../img/th.PNG)
 
 # Spanning ColumnS
 Sometimes you may need the
@@ -64,7 +64,7 @@ used on a ```<th> or <td>``` element
 and indicates how many columns
 that cell should run across.
 
-![td](./img/td.PNG)
+![td](../img/td.PNG)
 
 # Spanning Rows
 The rowspan attribute can be
@@ -98,7 +98,7 @@ The body should sit inside the
 The footer belongs inside the
 ```<tfoot>``` element.
 
-![long-tabel](./img/long-tabel.PNG)
+![long-tabel](../img/long-tabel.PNG)
 <br>
 
 
@@ -128,12 +128,12 @@ Objects group together a set of variables and functions to create a model of a s
 If a function is part of an object, it is called a method.
 Methods represent tasks that are associated with the object.
 
-![object](./img/object.PNG)
+![object](../img/object.PNG)
 
 # Create an Object : LITERAL NOTATION
 
 
-![object](./img/oop.PNG)
+![object](../img/oop.PNG)
 
 <br>
 
@@ -168,11 +168,11 @@ As a browser loads a web page, it creates a model of that page. The model is cal
 3. ATTRIBUTE NODES
 4. TEXT NODES
 
-![body-Of-HTML-Page](./img/bodyof.PNG)
+![body-Of-HTML-Page](../img/bodyof.PNG)
 
 <br>
 
-![DOM-Tree](./img/DOMtree.PNG)
+![DOM-Tree](../img/DOMtree.PNG)
 
 # WORKING WITH THE DOM TREE
 Accessing and updating the DOM tree involves two steps:
@@ -190,7 +190,7 @@ id attribute.
 * **querySelector ()** : Uses a CSS selector, and returns
 the first matching element.
 
-![select-an-individual-element](./img/se.PNG)
+![select-an-individual-element](../img/se.PNG)
 
 2. SELECT MULTIPLE ELEMENTS (NODELISTS)
 
@@ -204,7 +204,7 @@ a specific value for their cl ass attribute.
 * **querySelectorAll()** : Uses a CSS selector to select all
 matching elements.
 
-![select-multiple-elements](./img/se2.PNG)
+![select-multiple-elements](../img/se2.PNG)
 
 3. TRAVERSING BETWEEN ELEMENT NODES
 
@@ -217,7 +217,7 @@ element node (which will return just one element).
 
 * **firstChild / lastChild** : Select the first or last child of the current element.
 
-![TRAVERSING-BETWEEN-ELEMENT-NODES](./img/se3.PNG)
+![TRAVERSING-BETWEEN-ELEMENT-NODES](../img/se3.PNG)
 
 
 **Note:** The terms elements and element nodes are used interchangeably but when people say the DOM is working with an element, it is actually working with a node that represents that element.
@@ -275,9 +275,9 @@ Sometimes you will just want to access one individual element. Other times you m
 
 * GROUPS OF ELEMENT NODES
 * FASTEST ROUTE
-![element](./img/element.PNG)
+![element](../img/element.PNG)
 
-![element2](./img/element2.PNG)
+![element2](../img/element2.PNG)
 
 # SELECTING ELEMENTS USING ID ATTRIBUTES
 
@@ -289,7 +289,7 @@ the element you want to select.This value is placed inside quote
 marks because it is a string. The quotes can be single or double
 quotes, but they must match.
 
-![quote](./img/quo.PNG)
+![quote](../img/quo.PNG)
 
 # NODELISTS: DOM QUERIES THAT RETURN MORE THAN ONE ELEMENT
 When a DOM method can return more than one element, it returns a
@@ -329,7 +329,7 @@ elements, one for each of the
 have an id attribute (regardless
 of the va lues of the id attributes).
 
-![selector](./img/select.PNG)
+![selector](../img/select.PNG)
 
 
 
