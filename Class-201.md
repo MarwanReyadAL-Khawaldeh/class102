@@ -14,6 +14,7 @@
 |Read-07|[link](Read-Class-201/Read-07.md)|
 |Read-08|[link](Read-Class-201/Read-08.md)|
 |Read-09|[link](Read-Class-201/Read-09.md)|
+|Read-10|[link](Read-Class-201/Read-10.md)|
 
 
 
