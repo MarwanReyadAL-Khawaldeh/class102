@@ -11,7 +11,6 @@ Hmmm, “event-based”, “non-blocking”, “asynchronous I/O” — that’s
 
 
  ## What Is Node.js Used For?
-
 And if you want to start developing apps with any modern JavaScript framework (for example, React or Angular), you’ll be expected to have a working knowledge of Node and npm. This isn’t because you need a Node back end to run these frameworks. You don’t. Rather, it’s because these frameworks (and many, many related packages) are all available via npm and rely on Node to create a sensible development environment in which they can run.
 
 ## What Kind of Apps Is Node.js Suited To?
