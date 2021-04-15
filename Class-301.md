@@ -18,3 +18,5 @@
 |Read-11|[link](Read-Class-301/Read-11.md)|
 |Read-12|[link](Read-Class-301/Read-12.md)|
 |Read-13|[link](Read-Class-301/Read-13.md)|
+|Read-14-A|[link](Read-Class-301/Read-14-A.md)|
+|Read-14-B|[link](Read-Class-301/Read-14-B.md)|
